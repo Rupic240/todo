@@ -2,12 +2,11 @@
 
 ## Key Features
 
-- **Add, Delete, Edit**
-- **Dark/Light Mode**
+- Add, Delete, Edit
+- Dark/Light Mode
 
 ## Tech Stack
 
-
-- **Vite+React**
-- **Tailwindcss**
-- **framer-motion**
+- Vite+React
+- Tailwindcss
+- framer-motion
